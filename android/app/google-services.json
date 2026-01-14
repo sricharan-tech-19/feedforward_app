@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086021456294",
+    "project_id": "feed-forward-4aaf4",
+    "storage_bucket": "feed-forward-4aaf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086021456294:android:95e0488e1849b231fb3f67",
+        "android_client_info": {
+          "package_name": "com.example.feedforward"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXop-1m9hVDjQJ0nlZ1eFddB2fx3iMu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086021456294:android:5f54839f3da995cffb3f67",
+        "android_client_info": {
+          "package_name": "com.feedforward.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEXop-1m9hVDjQJ0nlZ1eFddB2fx3iMu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
